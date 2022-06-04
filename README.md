@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ADAPASASHANK
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning DSA , Matchine learning and Devops.
-- 💞️ I’m looking to collaborate on .....
-- 📫 How to reach me ...
+- 👀 I’m interested in Tech.
+- 🌱 I’m currently learning Matchine learning.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me though my mail.
 
 <!---
 ADAPASASHANK/ADAPASASHANK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
